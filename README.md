@@ -105,5 +105,13 @@ Railway - облачная PaaS-платформа, на которой можн
 ![Добавление необходимых переменных окружения](https://user-images.githubusercontent.com/70375413/213859586-b07b8f91-1978-4439-afcc-af0df062b07b.png)
 ![Добавление переменных для подключения к базе данных](https://user-images.githubusercontent.com/70375413/213859754-b9c6f1ca-c9a1-4b1a-aac4-52af7982d2ad.png)
 ![Автоматический деплой из мастера](https://user-images.githubusercontent.com/70375413/213859810-6bdd4b00-49ca-4757-9a5a-5670f6e3b6d5.png)
+![Просмотр логов сборки](https://user-images.githubusercontent.com/70375413/213859945-57ab080a-9549-4c34-8a55-d41de1626a25.png)
+![Генерация доменного имени](https://user-images.githubusercontent.com/70375413/213859983-f6074c75-d157-440c-a4d8-bb6f717c178e.png)
+![Редактирование доменного имени](https://user-images.githubusercontent.com/70375413/213860007-3ccea66b-caf0-4bd3-9420-064c11bf31f2.png)
+
+!!! ДЛЯ КОРРЕКТНОЙ ТРЕБУЕТСЯ РАЗВЕРТКА ПРИЛОЖЕНИЯ НА 3000 ПОРТЕ !!!
+![Развертка на 3000 порту](https://user-images.githubusercontent.com/70375413/213860129-21883175-421d-4da6-936b-61f511e19f69.png)
+![Пример работы приложения](https://user-images.githubusercontent.com/70375413/213860169-d1d480c3-2e3a-4307-8107-2f0b89eec534.png)
+
 
 
